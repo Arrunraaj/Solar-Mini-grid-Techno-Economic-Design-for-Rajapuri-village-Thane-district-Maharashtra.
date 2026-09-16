@@ -1,0 +1,1 @@
+# Solar-Mini-grid-Techno-Economic-Design-for-Rajapuri-village-Thane-district-Maharashtra.
