@@ -38,4 +38,4 @@ The manual design meets peak load at lower capital cost (LCOE ≈ ₹5.82/kWh), 
 
 ## File
 
-`Solar_Mini-grid_Design.pdf` — full report (12 pages, incl. references and team contribution breakdown)
+*[Solar_Mini-grid_Design.pdf](https://github.com/Arrunraaj/Solar-Mini-grid-Techno-Economic-Design-for-Rajapuri-village-Thane-district-Maharashtra./Solar Mini-grid Design) — full report (12 pages, incl. references and team contribution breakdown)
